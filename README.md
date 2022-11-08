@@ -1,6 +1,6 @@
 # MYBIKE landing page
 
-- [DEMO LINK](https://ibondrk.github.io/MYBIKE_landing_page.git/)
+- [DEMO LINK](https://ibondrk.github.io/MYBIKE_landing_page)
 
 #
 - [MOCKUP](https://www.figma.com/file/Ic3SlZjkATYaS7uTifZAIk/BIKE?node-id=0%3A1)
